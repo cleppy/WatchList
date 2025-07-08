@@ -4,11 +4,9 @@ WatchList is a simple Android application built with Jetpack Compose, designed t
 
 Here are some screenshots of the WatchList app:
 
-![Discover Screen](screenshots/Screenshot_20250708_195225_WatchList.jpg)
-*A brief description for the first screenshot.*
+<img src="screenshots/Screenshot_20250708_195225_WatchList.jpg" alt="Discover Screen" width="300"/>
+<img src="screenshots/Screenshot_20250708_195235_WatchList.jpg" alt="Watched List Screen" width="300"/>
 
-![Watched List Screen](screenshots/Screenshot_20250708_195235_WatchList.jpg)
-*A brief description for the second screenshot.*
 
 Features:
 

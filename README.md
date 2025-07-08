@@ -2,6 +2,14 @@ WatchList: Your Anime, Movie & TV Show Tracker
 
 WatchList is a simple Android application built with Jetpack Compose, designed to help you discover new anime, movies, and TV shows, track what you've watched, and manage your watchlist.
 
+Here are some screenshots of the WatchList app:
+
+![Discover Screen](screenshots/Screenshot_20250708_195225_WatchList.jpg)
+*A brief description for the first screenshot.*
+
+![Watched List Screen](screenshots/Screenshot_20250708_195235_WatchList.jpg)
+*A brief description for the second screenshot.*
+
 Features:
 
     Discover: Browse popular movies, TV shows, and anime.
